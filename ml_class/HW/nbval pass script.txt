@@ -1,0 +1,13 @@
+(.msba-notes) ➜  ml_class git:(master) ✗ py.test --nbval
+=============================================================================== test session starts ===============================================================================
+platform darwin -- Python 3.6.3, pytest-3.3.2, py-1.5.2, pluggy-0.6.0
+Matplotlib: 2.1.1
+Freetype: 2.6.1
+rootdir: /Users/Crystal/src/MSBA-note/ml_class, inifile:
+plugins: mpl-0.9, nbval-0.7
+collected 41 items                                                                                                                                                                
+
+HW/Clustering of Airbnb Lists - Pre-Assessment HW 1.3.ipynb .......................................                                                                         [ 95%]
+notebooks/General_Notes.ipynb ..                                                                                                                                            [100%]
+
+============================================================================ 41 passed in 4.23 seconds ============================================================================
